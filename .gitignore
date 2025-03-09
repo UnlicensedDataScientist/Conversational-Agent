@@ -1,0 +1,23 @@
+# Ignore .env file
+.env
+
+# Ignore environment folder
+.venv/
+venv/
+
+# Ignore *.pyc files
+*.pyc
+
+# Ignore __pycache__/ folder
+*__pycache__/
+
+# Ignore chainlit files
+.chainlit/
+chainlit.md
+
+# ignore .pdf
+*.pdf
+
+# Ignore .png
+
+*.png
